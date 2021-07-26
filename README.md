@@ -34,10 +34,10 @@ What variable(s) are neither targets nor features, and should be removed from th
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
-In V1, I used 12 neurons in layer 1, 9 in layer 2, 6 in layer 3 and, 3 in layer 4. I used relu for my activation function. I wanted to try to use 4 layers, in intervals of 3 to see if it would optimize results. 
+8 neurons in layer 1, 5 neurons in layer 2 with an accuracy of roughly 73%. 
 
 ![alt text](https://github.com/stackanna/Neural_Network_Charity_Analysis/blob/283c7b0961224037a96aa815942bcdb5f7364d3e/Screen%20Shot%202021-07-25%20at%209.57.01%20PM.png)
 
-![alt text](https://github.com/stackanna/PyBer_Analysis/blob/d38b6e37a911ddb150e9e217017f16398bc38f77/Analysis/PyBer_Fare_Summary.png)
+Although we didnt achieve the 75% accuracy we were less than 2% away. 
 
 ![alt text](https://github.com/stackanna/Neural_Network_Charity_Analysis/blob/21e9802272a0e7cc00f1160ea6c4a1b88d039b07/Screen%20Shot%202021-07-25%20at%209.15.22%20PM.png)
