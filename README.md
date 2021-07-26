@@ -28,7 +28,7 @@ Using our knowledge of TensorFlow, we designed a neural network, also known as a
 # DATA PREPROCESSING
 
 What variable(s) are neither targets nor features, and should be removed from the input data?
-- The removed columns were EIN and NAME because they were just identification information.
+- The removed columns were EIN and NAME because they were identifiers.
 
 # Compiling, Training, and Evaluating the Model:
 
